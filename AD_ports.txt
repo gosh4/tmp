@@ -1,0 +1,11 @@
+53/tcp/udp - DNS
+389/tcp/udp - LDAP
+636/tcp - LDAPS
+88/tcp/udp - Kerberos
+464/tcp/udp - Kerberos
+3268/tcp - LDAP Global catalog
+3269/tcp - LDAP Global catalog SSL
+123/UDP - NTP
+135/tcp - RPC
+137-139/tcp/udp - NetBIOS services
+445/tcp/udp - SMB
